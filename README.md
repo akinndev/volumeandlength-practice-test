@@ -51,3 +51,5 @@ npm run dev
 then access uri https://localhost:8000
 
 - Check the preview screenshots at public/screenshots folder
+
+- Check full demo video here [https://drive.google.com/file/d/1MRFnL4L0U-_FvQmhKNgpjsolZlb7VM5k/view?usp=share_link]
