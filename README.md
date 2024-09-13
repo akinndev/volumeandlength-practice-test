@@ -49,3 +49,5 @@ npm run dev
 ```
 
 then access uri https://localhost:8000
+
+- Check the preview screenshots at public/screenshots folder
